@@ -1,0 +1,16 @@
+{
+    "name": "administrator/php_framerwork",
+    
+    "authors": [
+        {
+            "name": "abderrahman fodili",
+            "email": "bestiony@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
